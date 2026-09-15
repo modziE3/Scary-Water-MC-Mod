@@ -1,4 +1,4 @@
-<img width="1254" height="1254" alt="scary-water" src="https://github.com/user-attachments/assets/8d99cb1c-8840-41e5-bebd-0e9f1aa48a43" />
+<img width="160" height="160" alt="scary-water" src="https://github.com/user-attachments/assets/8d99cb1c-8840-41e5-bebd-0e9f1aa48a43" />
 
 Scary Water!
 =======

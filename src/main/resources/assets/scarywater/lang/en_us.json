@@ -1,0 +1,15 @@
+{
+  "scarywater.configuration.title": "Scary Water Configs",
+  "scarywater.configuration.section.scarywater.common.toml": "Scary Water Configs",
+  "scarywater.configuration.section.scarywater.common.toml.title": "Scary Water Configs",
+
+  "scarywater.configuration.realisticSwimmingEnabled": "Enable Realistic Swim Height",
+  "scarywater.configuration.allowedEyeHeight": "Realistic Swim Height",
+
+  "scarywater.configuration.staminaEnabled": "Enable Swimming Stamina",
+  "scarywater.configuration.maxStamina": "Max Swimming Stamina",
+  "scarywater.configuration.bobbingDrain": "Water Bobbing Stamina Drain",
+  "scarywater.configuration.swimmingDrain": "Water Swimming Stamina Drain",
+  "scarywater.configuration.swimmingStaminaRegeneration": "Water Swimming Stamina Regeneration",
+  "scarywater.configuration.staminaColor": "Color of Swimming Stamina Bar"
+}

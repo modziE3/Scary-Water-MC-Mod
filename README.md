@@ -1,25 +1,18 @@
+<img width="1254" height="1254" alt="scary-water" src="https://github.com/user-attachments/assets/8d99cb1c-8840-41e5-bebd-0e9f1aa48a43" />
 
-Installation information
+Scary Water!
 =======
 
-This template repository can be directly cloned to get you started with a new
-mod. Simply create a new repository cloned from this one, by following the
-instructions provided by [GitHub](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-repository-from-a-template).
+This mod makes Minecraft scarier with more realistic swimming mechanics. 
+For example there is "low treading". This makes it so the when you bob 
+up and down in the water its not just your toes touching the water! the
+default height has you treading with your head and shoulders above the 
+water. This height is configurable too! Here is what it looks like:
 
-Once you have your clone, simply open the repository in the IDE of your choice. The usual recommendation for an IDE is either IntelliJ IDEA or Eclipse.
+<img width="1473" height="729" alt="image" src="https://github.com/user-attachments/assets/9499e84a-d441-4d98-8f92-b2ac447270de" />
 
-If at any point you are missing libraries in your IDE, or you've run into problems you can
-run `gradlew --refresh-dependencies` to refresh the local cache. `gradlew clean` to reset everything 
-{this does not affect your code} and then start the process again.
-
-Mapping Names:
-============
-By default, the MDK is configured to use the official mapping names from Mojang for methods and fields 
-in the Minecraft codebase. These names are covered by a specific license. All modders should be aware of this
-license. For the latest license text, refer to the mapping file itself, or the reference copy here:
-https://github.com/NeoForged/NeoForm/blob/main/Mojang.md
-
-Additional Resources: 
-==========
-Community Documentation: https://docs.neoforged.net/  
-NeoForged Discord: https://discord.neoforged.net/
+Another feature is swimming stamina. Meaning that players can't swim 
+forever! If you run out of stamina while in water you sink down and 
+can no longer sprint swim. You are still able to climb out of the 
+water on blocks. This makes you more cautious when swimming from island
+to island!
